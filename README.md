@@ -19,7 +19,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Raj-Raaz/AI-Chatbot.git
-cd QNA-Bot
+cd AI-Chatbot
 ```
 
 Install dependencies:
