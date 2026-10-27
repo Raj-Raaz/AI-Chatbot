@@ -18,7 +18,7 @@ You can ask questions and chat with the bot through a clean Streamlit interface.
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/QNA-Bot.git
+git clone https://github.com/Raj-Raaz/QNA-Bot.git
 cd QNA-Bot
 ```
 
